@@ -1,0 +1,92 @@
+---
+title: Seminar on Fundamental of Structural Equation Modeling (SEM) with SmartPLS3
+author: "Kamarul Ariffin Mansor"
+date: "1/14/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **INTRODUCTION**
+
+Structural equation modeling (SEM) and path modeling with latent variables (LVP) are used to empirically validate theoretically developed causal models in the social sciences disciplines. Covariance-based structural equation modeling (CB-SEM) and partial least squares-structural equation modeling (PLS-SEM) constitute the two corresponding statistical techniques to perform an SEM analysis.  
+
+Wold’s basic PLS-SEM design or basic method of soft modeling in comparison with CB-SEM, represents a different statistical method. It is more flexible in handling statistical modeling problems when it is difficult to meet the hard assumptions of more traditional multivariate statistics. Within this context, "soft" is only attributed to distributional assumptions and not to the concepts, the models or the estimation techniques.  
+
+PLS-SEM is appropriate in a variety of contexts, ranging from theoretical and applied research in marketing, management and other social sciences disciplines. The goal of PLS-SEM is to maximize the explanation of variances. The application of the PLS-SEM method is applicable if the premises of CB-SEM are violated and the assumed relations of cause-and-effect are not sufficiently explored. An advantage of PLS-SEM method is the unrestricted incorporation of latent variables in the path model that either draws on reflective or formative measurements models.  
+
+## **OBJECTIVES**  
+
+- To provide an in-depth methodological introduction into the PLS-SEM approach (the nature of causal modeling, analytical objectives, some statistics).  
+- To discuss the evaluation of measurement results.  
+- To introduce PLS-SEM as complementary analytical techniques.  
+
+Practical applications and the use of a PLS software application are an integral part of this course.  
+
+## **OUTLINES OF SEMINAR**  
+
+- History of Multivariate Analysis, Exploratory Research and Confirmatory Research, Introduction to SEM;  
+- The Application of SEM in Postgraduate Research;  
+- Comparison Between Variance Based SEM and Covariance Based SEM;  
+- The Concepts of Latent Constructs – Formative and Reflective Constructs;  
+- Validating the Measurement Model of a Construct (Unidimensionality, Validity and Reliability of a Construct);  
+- Validating the Structural Model of a Construct (Collinearity, Hypoyheses testing);  
+- Analyzing the Structural Model (SEM)  
+- Advanced Analysis (Mediation, Moderation, MGA, PLS Predicts)
+*NOTE:* Seminar content depends on the number of days based on level choices either Beginner, Intermediate or Advanced.
+
+## **PROPOSED CONTENT (2 Day Session - Beginners to Intermediate)**  
+
+### Day 1  
+1. Fundamentals of PLS path modeling  
+2. Introduction to the software application SmartPLS  
+3. Assessment of measurement model  
+4. Assessment of structural model  
+5. Examples and special problems in business research  
+
+### Day 2  
+1. Mediation  
+2. Moderation  
+3. Higher Order Constructs
+
+## **WHO SHOULD ATTEND?**  
+Individuals wishing to learn the fundamentals of PLS-SEM and the SmartPLS software. This course has been designed for full-time faculty, Ph.D. students, and marketing research professionals who are interested to learn how to use structural equation modeling (SEM) using partial least squares (PLS-SEM) in their own research applications. A basic knowledge of multivariate statistics and SEM techniques is helpful, but not required. A simplified version of the course will be delivered if the participants are from the undergraduate students.  
+
+## **TEACHING METHODS**  
+Presentations and SmartPLS exercises. Most of the seminar sessions will involve “hands-on” analysis of the dataset using the SmartPLS software. SmartPLS software output diagnostics and proper interpretation of the results will be covered. Potential obstacles and “rules-of-thumb” to ensure appropriate application of the technique will be covered.  
+
+## **REQUIREMENTS**  
+Seminar session is conducted in a computer lab or in a classroom with good wifi connections. For classroom session, participants must bring a laptop with the SmartPLS software loaded. Install SmartPLS before the course! The software is available free from https://www.smartpls.com/smartpls2 for the SmartPLS 2.0.M3 Beta version. Unfortunately, Mac does not support SmartPLS 2.0.M3 anymore. However, SmartPLS 3 runs fine on all windows and Mac systems and can be downloaded from https://www.smartpls.com/    
+
+## **RECOMMENDED READINGS**  
+- Hair, J. F., G. T. M. Hult, C. M. Ringle, M. Sarstedt and S. P. Gudergan. 2017. Advanced Issues in Partial Least Squares Structural Equation Modeling. Thousand Oaks: Sage  
+- Hair, J. F., G. T. M. Hult, C. M. Ringle and M. Sarstedt. 2013. A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM). Thousand Oaks: Sage.  
+- Hair, J. F., C. M. Ringle and M. Sarstedt (2011). "PLS-SEM: Indeed a Silver Bullet." Journal of Marketing Theory and Practice 19(2): 139-151.  
+- Hair, J. F., M. Sarstedt, C. M. Ringle and J. A. Mena (2012). "An Assessment of the Use of Partial Least Squares Structural Equation Modeling in Marketing Research." Journal of the Academy of Marketing Science 40(3): 414-433  
+
+## **SPEAKER**   
+
+![](profile3.png){width="150"}  
+
+Kamarul Ariffin Mansor. Currently attached as a senior lecturer in the Department of Mathematical Sciences, Faculty of Computers and Mathematical Sciences, UiTM Kedah. He has been with UiTM Kedah since 2002. His specialization and interest are in statistical and decision-making analysis. He is actively involved in consultancy work, especially in statistical analysis using statistical software such as IBM SPSS Statistics, AMOS, SmartPLS, JASP and R. His main research area is in Structural Equation Modeling and Dashboard Design (Excel, Tableau and R).  
+
+## **CONTACTS**  
+For any inquiry or discussion, reach me at:  
+
+Kamarul Ariffin Mansor  
+Faculty of Computer Science and Mathematics  
+Universiti Teknologi MARA (UiTM)  
+Kedah Branch Campus  
+08400 Merbok  
+Kedah Darul Aman, MALAYSIA  
+
+email: ariff118@uitm.edu.my  
+mobile: +60 12 433 6901  
+
+
+
+
+
+
